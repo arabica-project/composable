@@ -1,2 +1,2 @@
 # composable
-Composable categorical framework for building services on go
+Composable categorical framework for composes services with Go
